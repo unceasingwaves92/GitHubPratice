@@ -19,6 +19,7 @@ public class ClassicPage {
 			int k3 = 15;
 			int m = 100;
 			System.out.println(m);
+			int j = 50;
 
 
 			
@@ -29,6 +30,7 @@ public class ClassicPage {
 			System.out.println("master");
 			int n = 10;
 			int k = 20;
+			
 		}
 	
 		

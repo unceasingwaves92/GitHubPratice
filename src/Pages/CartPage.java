@@ -7,12 +7,6 @@ public class CartPage {
 		System.out.println("Cart Page");
 		String orderId = "123";
 		System.out.println("orderId");
-	
-		
-		while(true) {
-			
-			System.out.println("added");
-		}
 	}
 
 }

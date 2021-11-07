@@ -24,5 +24,9 @@ public class ClassicPage {
 		public void master() {
 			System.out.println("master");
 		}
+	
+		public void develop() {
+			System.out.println("develop");
+		}
 
 }

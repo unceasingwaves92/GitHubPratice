@@ -16,6 +16,7 @@ public class ClassicPage {
 			
 			System.out.println("Hi cart");
 			int h = 10;
+			int k = 15;
 
 
 			

@@ -9,6 +9,7 @@ public class CartPage {
 		System.out.println("orderId");
 		
 		System.out.println("hi");
+		System.out.println("hello");
 	}
 
 }

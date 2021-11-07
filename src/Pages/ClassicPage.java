@@ -9,9 +9,9 @@ public class ClassicPage {
 			int k1=200;
 			int div=k1/k;
 			System.out.println(div);
-      System.out.println("Bye");
-      
-      	String name = "karthik";
+      			System.out.println("Bye");
+      		      	String name = "karthik";
+			int salary = 12;
 
 			
 		}

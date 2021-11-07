@@ -28,6 +28,7 @@ public class ClassicPage {
 			
 			System.out.println("master");
 			int n = 10;
+			int k = 20;
 		}
 	
 		

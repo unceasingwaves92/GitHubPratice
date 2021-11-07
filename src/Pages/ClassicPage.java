@@ -29,5 +29,9 @@ public class ClassicPage {
 		public void develop() {
 			System.out.println("develop");
 		}
+	
+		public void tester() {
+			System.out.println("tester");
+		}
 
 }

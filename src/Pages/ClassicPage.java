@@ -12,7 +12,7 @@ public class ClassicPage {
    			System.out.println("Bye");
 			String name = "karthik";
 			int age = 25;
-			int sal =12;
+			int sal = 15;
 
 
 			

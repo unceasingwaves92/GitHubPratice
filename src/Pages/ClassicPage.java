@@ -17,6 +17,8 @@ public class ClassicPage {
 			System.out.println("Hi cart");
 			int h = 10;
 			int k3 = 15;
+			int m = 100;
+			System.out.println(m);
 
 
 			

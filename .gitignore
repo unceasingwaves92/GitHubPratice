@@ -1,7 +1,7 @@
-### Format1  ###
-
-.class
-bin/
+## Eclipse
+###########################################################################
 .settings/
-.project
 .classpath
+.project
+bin/
+.class

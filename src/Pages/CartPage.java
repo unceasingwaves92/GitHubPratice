@@ -8,11 +8,12 @@ public class CartPage {
 		String orderId = "123";
 		System.out.println("orderId");
 
+	
 		
-		System.out.println("hi");
-		System.out.println("hello");
-		System.out.println("bye");
-		System.out.println("dear");
+		while(true) {
+			
+			System.out.println("added");
+		}
 
 	}
 
